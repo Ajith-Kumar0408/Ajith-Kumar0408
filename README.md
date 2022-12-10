@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png)
+![MasterHead](https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png)
 
 <h1 align="center">Hi 👋, I'm Ajith Kumar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
